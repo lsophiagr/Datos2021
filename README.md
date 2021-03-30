@@ -22,3 +22,5 @@ Tomar este modelo de referencia, y agregar los nombres de campos que considere n
 7% anual.
 • Se debe llevar registro del balance diario de la cooperativa diariamente.
 
+## Modelo de entidad relación 
+![Modelo_Entidad_Relacion](https://github.com/lsophiagr/Datos2021/blob/main/Imagenes/ER%20-%20Proyecto%20Etapa%202.png)
