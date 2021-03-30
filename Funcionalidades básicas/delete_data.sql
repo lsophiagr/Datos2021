@@ -1,0 +1,11 @@
+DELETE FROM cooperativa;
+DELETE FROM cooperativa_balance;
+DELETE FROM cooperativa_historial;
+DELETE FROM cliente;
+DELETE FROM cuenta;
+DELETE FROM cuenta_detalle;
+DELETE FROM cdp;
+DELETE FROM cdp_detalle;
+DELETE FROM prestamo;
+DELETE FROM prestamo_detalle;
+DELETE FROM operaciones;

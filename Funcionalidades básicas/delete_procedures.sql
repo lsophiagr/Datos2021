@@ -1,0 +1,11 @@
+DROP PROCEDURE crear_balance_diario;
+DROP PROCEDURE crear_registro_balance;
+DROP PROCEDURE crear_cliente;
+DROP PROCEDURE crear_historial;
+DROP PROCEDURE crear_cdp;
+DROP PROCEDURE crear_cdp_detalle;
+DROP PROCEDURE crear_cuenta;
+DROP PROCEDURE crear_cuenta_detalle;
+DROP PROCEDURE crear_operacion;
+DROP PROCEDURE crear_prestamo;
+DROP PROCEDURE crear_prestamo_detalle;
